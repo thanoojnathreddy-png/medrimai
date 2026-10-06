@@ -1,0 +1,6 @@
+{
+  "name": "MediSync – Smart Medicine Reminder & Management System",
+  "description": "Smart medication management, timely reminders, prescription tracking, caregiver adherence monitoring, and AI-assisted health routine management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
